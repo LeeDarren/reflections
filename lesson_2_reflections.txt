@@ -17,3 +17,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	If you need to add or change something as a test but don't want it implemented in the main project until later.
 	Branching would allow you to work adding it and merge the changes on later.
+	
+How do the diagrams help you visualize the branch structure?
+
+	They help you see all the branches at the same time and how they are connected.
