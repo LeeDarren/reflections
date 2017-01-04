@@ -12,3 +12,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 	while leaving unrelated changes outside of the staging area.  The work will still
 	there in your working directory but not in the commit.  You can immediately start
 	another commit afterwards in a logical chunk.  
+	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	If you need to add or change something as a test but don't want it implemented in the main project until later.
+	Branching would allow you to work adding it and merge the changes on later.
