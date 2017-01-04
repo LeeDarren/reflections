@@ -5,3 +5,10 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	The answer is also on the laptop!
+	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can add a certain amount of changed files to the staging area for a commit 
+	while leaving unrelated changes outside of the staging area.  The work will still
+	there in your working directory but not in the commit.  You can immediately start
+	another commit afterwards in a logical chunk.  
